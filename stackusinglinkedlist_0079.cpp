@@ -54,6 +54,7 @@ class Stack{
     
     bool isEmpty(){
     return top = NULL;
+    }
 };
 
 int main(){
@@ -108,4 +109,3 @@ int main(){
     }
     return 0;
 }
-};
