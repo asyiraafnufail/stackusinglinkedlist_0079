@@ -51,9 +51,8 @@ class Stack{
             cout << endl;
         }
     }
-};
-
-bool isEmpty(){
+    
+    bool isEmpty(){
     return top = NULL;
 };
 
