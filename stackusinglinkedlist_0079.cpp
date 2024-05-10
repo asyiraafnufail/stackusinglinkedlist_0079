@@ -55,4 +55,8 @@ class Stack{
 
 bool isEmpty(){
     return top = NULL;
+};
+
+int main(){
+    Stack stack;
 }
